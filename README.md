@@ -1,4 +1,4 @@
-![Profile Avatar.](avatar.svg)
+![Profile Avatar.](https://res.cloudinary.com/dmrcpqdkd/image/upload/v1596034131/avatar_umcbap.png)
 
 ### Hi I am George Misan 👋
 
