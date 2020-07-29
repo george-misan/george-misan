@@ -4,6 +4,8 @@
 
 I am a full-stack designer that understands the entire software development process from concept to design and development. My superpowers include UX / UI design, front-end development (which includes a high level of proficiency in JS frameworks, SASS, LESS & CSS Grid system), and a good technical understanding of backend. I am enthusiastic about creating clean, user-centric & functional web applications that solve real-world problems.
 
+- ⚡ Fun fact: I love playing basketball & console game when I'm not coding.
+
 <!--
 **george-misan/george-misan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
