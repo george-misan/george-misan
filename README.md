@@ -1,4 +1,4 @@
-![Profile Avatar.](avatar.svg)
+![Profile Avatar.](https://ibb.co/MfCS96H)
 
 ### Hi I am George Misan 👋
 
