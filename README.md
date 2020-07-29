@@ -1,4 +1,4 @@
-![alt text here](img/)
+![Profile Avatar](./img/profile-avatar.png)
 
 ### Hi I am George Misan 👋
 
