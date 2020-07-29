@@ -1,4 +1,4 @@
-![Profile Avatar.](https://res.cloudinary.com/dmrcpqdkd/image/upload/v1596034836/git-avatar_vrhe1s.svg)
+![Profile Avatar.](https://res.cloudinary.com/dmrcpqdkd/image/upload/v1596040452/git-avatar_ymina5.svg)
 
 ### Hi I am George Misan 👋
 
