@@ -1,4 +1,4 @@
-![Profile Avatar.](img/profile-avatar.png)
+![Profile Avatar.](img/avatar.svg)
 
 ### Hi I am George Misan 👋
 
