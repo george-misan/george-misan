@@ -1,4 +1,4 @@
-![Profile Avatar.](https://res.cloudinary.com/dmrcpqdkd/image/upload/v1596054781/profile-avatar_qb0sdp.png)
+![Profile Avatar.](https://res.cloudinary.com/dmrcpqdkd/image/upload/v1596056305/profile-avatar_qpkfs4.png)
 
 ### Hi, Earthlings 👋
 
