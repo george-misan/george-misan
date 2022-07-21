@@ -2,7 +2,7 @@
 
 ### Hi, Earthlings 👋
 
-I am a ~~basketballer~~ software engineer that understands the software development life cycle from design to implementation and deployment. My superpowers include `UX / UI design`, `front-end development`(which includes a high level of proficiency in Typescript, React, SASS, LESS & CSS Grid system), and a good technical understanding of `backend development`. I am enthusiastic about creating clean, user-centric & functional web applications that solve real-world problems.
+I am a ~~basketballer~~ software engineer that understands the software development life cycle from design to implementation. My superpowers include `UX / UI design`, `front-end development`(which includes a high level of proficiency in Typescript, React, Redux, CSS, SASS etc.), and a good technical understanding of `backend development`. I am enthusiastic about creating clean, user-centric & functional web applications that solve real-world problems.
 
 📫 Contact me: george.eyoyibo@gmail.com
 
